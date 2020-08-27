@@ -1,0 +1,8 @@
+C:\Users\Carlos\source\repos\Teste DN\Dncdpm\bin\Debug\Dncdpm.exe.config
+C:\Users\Carlos\source\repos\Teste DN\Dncdpm\bin\Debug\Dncdpm.exe
+C:\Users\Carlos\source\repos\Teste DN\Dncdpm\bin\Debug\Dncdpm.pdb
+C:\Users\Carlos\source\repos\Teste DN\Dncdpm\obj\Debug\Dncdpm.csprojAssemblyReference.cache
+C:\Users\Carlos\source\repos\Teste DN\Dncdpm\obj\Debug\Dncdpm.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\Teste DN\Dncdpm\obj\Debug\Dncdpm.exe
+C:\Users\Carlos\source\repos\Teste DN\Dncdpm\obj\Debug\Dncdpm.pdb
+C:\Users\Carlos\source\repos\Teste DN\Dncdpm\bin\Debug\input.txt
